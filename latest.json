@@ -1,6 +1,6 @@
 {
-  "build": 7,
-  "version": "1.1.0",
-  "notes": "New clean light design and app icon.\nHome: tap items to add to cart, most sold items, low stock alert, grid or list view.\nBarcode scan with beep: price check, add to cart, add stock, item barcode.\nPayment by Cash, JazzCash, Easypaisa or Udhaar, with a report by payment.\nQR code on every bill. Scan an old bill for Return / Exchange and a revised bill.\nCustomer QR card. Cost price (hidden). Photo crop. Snackbars with Undo.",
+  "build": 8,
+  "version": "1.2.0",
+  "notes": "Plus button opens \"What sold?\" straight away.\nNew sale step \"How much?\": tap an item to change pieces, give a special rate, or remove it.\nCustomer name on the payment step (optional), with old customers to pick.\nNew Stock screen in Settings: items that need stock first, Add stock in one tap.\nBill: share at the top right, no buttons at the bottom.",
   "apk": "dukaan-hisaab.apk"
 }
