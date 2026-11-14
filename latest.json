@@ -1,6 +1,6 @@
 {
-  "build": 5,
-  "version": "1.0.0",
-  "notes": "First version of Dukaan Hisaab.",
+  "build": 7,
+  "version": "1.1.0",
+  "notes": "New clean light design and app icon.\nHome: tap items to add to cart, most sold items, low stock alert, grid or list view.\nBarcode scan with beep: price check, add to cart, add stock, item barcode.\nPayment by Cash, JazzCash, Easypaisa or Udhaar, with a report by payment.\nQR code on every bill. Scan an old bill for Return / Exchange and a revised bill.\nCustomer QR card. Cost price (hidden). Photo crop. Snackbars with Undo.",
   "apk": "dukaan-hisaab.apk"
 }
