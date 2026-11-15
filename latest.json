@@ -1,6 +1,6 @@
 {
-  "build": 8,
-  "version": "1.2.0",
-  "notes": "Plus button opens \"What sold?\" straight away.\nNew sale step \"How much?\": tap an item to change pieces, give a special rate, or remove it.\nCustomer name on the payment step (optional), with old customers to pick.\nNew Stock screen in Settings: items that need stock first, Add stock in one tap.\nBill: share at the top right, no buttons at the bottom.",
+  "build": 9,
+  "version": "1.3.0",
+  "notes": "New soft purple look and app icon. New intro pages and shop setup.\nConfirm the bill before saving; then just a saved message (see it in Today's Bills).\nItems with sizes or types (12W / 20W, 1 rod / 2 rod): one card, pick the size.\n# codes for items without a barcode: type the code, or print barcode stickers.\nNotifications from the bell: low stock, old udhaar, supplier payments, updates.\nApp lock with fingerprint or PIN. Delete a wrong bill (with your lock).\nPicked items lift up with a minus button; items fly into the cart.",
   "apk": "dukaan-hisaab.apk"
 }
