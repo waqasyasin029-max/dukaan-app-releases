@@ -1,6 +1,6 @@
 {
-  "build": 11,
-  "version": "1.4.0",
-  "notes": "New nav bar with the raised plus button.\nNew invoice bill (From / Billed to) with a barcode; scan it for return or exchange.\nScan screen: a \"Recently scanned\" list builds up, items go into the cart.\nNight summary notification in Urdu: today's sale, low stock, old udhaar.\nBackup now includes photos, and you can restore a backup.\nClean Settings, new About page. Intro pages in English (Urdu if you pick it).",
+  "build": 13,
+  "version": "1.5.0",
+  "notes": "New Home: quick picks, category chips and a 3-column photo grid.\nNew sale steps: photo grid, \u2212 / + on each line, big payment tiles, invoice preview before saving.\nNew Stock screen: items that need stock first, all items with photos, quick Add stock.\nNew Add item and Add stock popups.\nNew Reports (week / month), Udhaar (to receive, received this week) and Settings.",
   "apk": "dukaan-hisaab.apk"
 }
