@@ -1,6 +1,6 @@
 {
-  "build": 13,
-  "version": "1.5.0",
-  "notes": "New Home: quick picks, category chips and a 3-column photo grid.\nNew sale steps: photo grid, \u2212 / + on each line, big payment tiles, invoice preview before saving.\nNew Stock screen: items that need stock first, all items with photos, quick Add stock.\nNew Add item and Add stock popups.\nNew Reports (week / month), Udhaar (to receive, received this week) and Settings.",
+  "build": 14,
+  "version": "1.5.1",
+  "notes": "Same layout on every phone: text no longer grows with the phone's font size.\nNothing hides under the phone's bottom buttons any more.\nPhoto crop screen: close and tick buttons are now below the status bar.",
   "apk": "dukaan-hisaab.apk"
 }
